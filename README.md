@@ -28,7 +28,7 @@ Explore these sections for a complete learning experience:
 ## 📚 Fundamentals
 
 Build a solid foundation with these resources:
-- 📝 [What is Machine Learning and How is it Remaking Our World?](<https://www.projectpro.io/article/what-is-machine-learning/423>)
+- 📝 [What is Machine Learning and How is it Remaking Our World?](<https://www.projectpro.io/article/what-is-machine-learning-and-how-it-is-remaking-our-world/191>)
 - 📝 [Prerequisites to Learn Machine Learning](<https://www.projectpro.io/article/prerequisites-to-learn-machine-learning/489>)
 - 📝 [Common Machine Learning Algorithms for Beginners](<https://www.projectpro.io/article/common-ml-algorithms-for-beginners/497>)
 - 📝 [Why You Should Learn Machine Learning](<https://www.projectpro.io/article/why-you-should-learn-machine-learning/415>)
