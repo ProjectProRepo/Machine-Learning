@@ -29,9 +29,9 @@ Explore these sections for a complete learning experience:
 
 Build a solid foundation with these resources:
 - 📝 [What is Machine Learning and How is it Remaking Our World?](<https://www.projectpro.io/article/what-is-machine-learning-and-how-it-is-remaking-our-world/191>)
-- 📝 [Prerequisites to Learn Machine Learning](<https://www.projectpro.io/article/prerequisites-to-learn-machine-learning/489>)
-- 📝 [Common Machine Learning Algorithms for Beginners](<https://www.projectpro.io/article/common-ml-algorithms-for-beginners/497>)
-- 📝 [Why You Should Learn Machine Learning](<https://www.projectpro.io/article/why-you-should-learn-machine-learning/415>)
+- 📝 [Prerequisites to Learn Machine Learning](<https://www.projectpro.io/article/prerequisites-to-learn-machine-learning/511>)
+- 📝 [Common Machine Learning Algorithms for Beginners](<https://www.projectpro.io/article/common-machine-learning-algorithms-for-beginners/202>)
+- 📝 [Why You Should Learn Machine Learning](<https://www.projectpro.io/article/why-you-should-learn-machine-learning/362>)
 - 📝 [10 Awesome Machine Learning Applications of Today](<https://www.projectpro.io/article/machine-learning-applications/512>)
 - 📝 [7 Types of Classification Algorithms in Machine Learning](<https://www.projectpro.io/article/classification-algorithms-in-machine-learning/439>)
 - 📝 [8 Feature Engineering Techniques for Machine Learning](<https://www.projectpro.io/article/feature-engineering-techniques/483>)
@@ -43,7 +43,7 @@ Build a solid foundation with these resources:
 ## 🌐 Tutorials & Recipes
 
 Hands-on tutorials to kickstart your learning journey:
-- 📝 [K-Means Clustering with Scikit-Learn](<https://www.projectpro.io/recipes/k-means-clustering-sklearn>)
+- 📝 [K-Means Clustering with Scikit-Learn](<https://www.projectpro.io/recipes/k-means-clustering-with-scikit-learn>)
 - 📝 [Implement Naive Bayes Classifier Using Sklearn](<https://www.projectpro.io/recipes/naive-bayes-classifier-sklearn>)
 - 📝 [Plot ROC Curve with Sklearn](<https://www.projectpro.io/recipes/plot-roc-curve-sklearn>)
 - 📝 [Create an SVM Model in Sklearn](<https://www.projectpro.io/recipes/svm-model-sklearn>)
